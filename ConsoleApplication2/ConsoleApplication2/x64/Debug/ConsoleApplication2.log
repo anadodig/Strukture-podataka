@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\User\source\repos\ConsoleApplication2\ConsoleApplication2\main.c(70,3): warning C4047: 'return': 'Student *' differs in levels of indirection from 'int'
+C:\Users\User\source\repos\ConsoleApplication2\ConsoleApplication2\main.c(78,3): warning C4047: 'return': 'Student *' differs in levels of indirection from 'int'
+  ConsoleApplication2.vcxproj -> C:\Users\User\source\repos\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
