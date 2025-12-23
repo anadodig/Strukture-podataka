@@ -1,0 +1,4 @@
+Inorder prije replace:
+73 25 50 16 88 40 31 15 73 48 
+Inorder poslije replace:
+0 123 0 276 0 88 428 0 63 0 
