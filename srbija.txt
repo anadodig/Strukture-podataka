@@ -1,4 +1,0 @@
-Beograd, 1405192
-Novi_Sad, 341625
-Nis, 260237
-Kragujevac, 179417
