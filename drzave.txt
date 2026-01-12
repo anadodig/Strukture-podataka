@@ -1,3 +1,0 @@
-Bosna_i_Hercegovina bih.txt
-Hrvatska hrvatska.txt
-Srbija srbija.txt
